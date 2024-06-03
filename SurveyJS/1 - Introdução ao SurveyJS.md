@@ -5,7 +5,7 @@
   
 * [Crie sua conta](#crie-sua-conta)
 * [Crie seu primeiro survey](#crie-seu-primeiro-survey)
-* [Explorando a página do survey](#explorando-a-pagina-do-survey)
+* [Explorando a página do survey](#explorando-a-página-do-survey)
 
 </details>
 
