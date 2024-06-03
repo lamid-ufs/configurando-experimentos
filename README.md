@@ -4,6 +4,6 @@ O presente repositório tem como objetivo servir como um manual básico para a e
 
 ## Índice
 
-### 📁 SurveyJS
+### 📁 [SurveyJS](/SurveyJS)
 A pasta SurveyJS armazena o manual para a configuração de experimentos na plataforma, contando com diferentes seções, explicações, imagens e tutoriais.
 
