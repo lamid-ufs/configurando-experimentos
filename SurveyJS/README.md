@@ -8,6 +8,10 @@ dashboards, contudo, nesse guia, focaremos na criação de _surveys_.
 ## Guia - SurveyJS
 
 ### [1. Introdução ao SurveyJS](1%20-%20Introdu%C3%A7%C3%A3o%20ao%20SurveyJS.md)
+  Crie sua conta e explore a criação de experimentos.
 ### [2. Conhecendo a interface](2%20-%20Conhecendo%20a%20interface.md)
+  Conheca um pouco mais da configuração geral dos experimentos, como as descrições e a navegação entre páginas.
 ### [3. Criando o experimento](3%20-%20Criando%20o%20experimento.md)
-### [4. Inserindo mídia]()
+  Crie seu primeiro experimento e aprenda a utilizar diferentes tipos de elementos, como rankings, perguntas simples e classificações.
+### [4. Inserindo mídia](4%20-%20Inserindo%20mídia.md)
+  Insira arquivos de mídia no seu experimento.
