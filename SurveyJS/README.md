@@ -7,6 +7,6 @@ dashboards, contudo, nesse guia, focaremos na criação de _surveys_.
 
 ## Guia - SurveyJS
 
-### [1. Introdução ao SurveyJS](/1%20-%20Introdu%C3%A7%C3%A3o%20ao%20SurveyJS.md)
+### [1. Introdução ao SurveyJS](SurveyJS/1%20-%20Introdu%C3%A7%C3%A3o%20ao%20SurveyJS.md)
 ### 2. Conhecendo a interface
 ### 3. Configurando seu primeiro experimento
