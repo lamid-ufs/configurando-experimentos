@@ -73,4 +73,4 @@ As perguntas subjetivas podem ser divididas em 3 tipos dentro do SurveyJS: respo
 
 ![Subjetivas](https://github.com/lamid-ufs/configurando-experimentos/assets/88946365/fc490c76-2866-4e8b-84c4-ec91b6ab1c3b)
 
-
+---
