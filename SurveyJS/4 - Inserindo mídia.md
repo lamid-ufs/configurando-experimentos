@@ -27,6 +27,7 @@ Também podem ser inseridos vídeos do YouTube, indo na aba _General_ e inserind
 
 ## Inserindo áudio
 A inserção de áudio no SurveyJS é uma tarefa que demanda um pouco de paciência pois não é uma função nativa da plataforma, ou seja, não tem nenhum recurso pronto (como o das imagens e vídeos) que permita a inserção de áudios. Porém, nada que a sabedoria (gambiarra) não dê jeito. Assim, para inserir áudios no seu experimento, siga os passos:
+
 **1. Faça o upload dos seus áudios no Google Drive**
 
 **2. Torne os links dos áudios compartilháveis com qualquer pessoa**    
